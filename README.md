@@ -6,3 +6,6 @@ Current features: entire engine in 1 header rendering of 3d objects shader suppo
 Planned features: gameobject parent/child support gui physics audio support scene manager linux support
 
 extract the folder and just run the .exe for a quick demo
+
+
+![](https://github.com/crknuchu/WhiteEngine/blob/main/white_engine.gif)
